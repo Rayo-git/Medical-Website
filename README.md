@@ -3,6 +3,6 @@
 -It was designed using HTML and CSS properties.
 -Author: Akinshipe Motunrayo
 
--Screenshot()
+-Screenshot:url()
 
--Solution url()
+-Solution: url()
