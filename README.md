@@ -6,4 +6,4 @@
 
 -Author: Akinshipe Motunrayo
 
--Screenshot: url()
+-Screenshot: url([a relative link](medical.png))
