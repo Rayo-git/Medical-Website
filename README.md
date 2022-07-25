@@ -6,10 +6,10 @@
 
 -Author: Akinshipe Motunrayo
 
--Screenshot: url([solution](medical.PNG)
+-Screenshot: url([solution](medical.PNG))
 
-                 [solution](medical1.PNG)
+                 ([solution](medical1.PNG))
                  
-                 [solution](medical2.PNG)
+                 ([solution](medical2.PNG))
                  
-                 [solution](medical3.PNG))
+                 ([solution](medical3.PNG))
